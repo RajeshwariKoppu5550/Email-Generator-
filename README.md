@@ -1,6 +1,5 @@
 # Generating Emails with GPT3
 
-[![](https://img.youtube.com/vi/oJWBQKrF4uM/0.jpg)](https://www.youtube.com/watch?v=oJWBQKrF4uM)
 
 _____
 ## How to run this on your local computer:
